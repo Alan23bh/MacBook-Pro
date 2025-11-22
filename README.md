@@ -3,7 +3,7 @@
 A modern landing page inspired by Apple's MacBook Pro marketing site.  
 Built with **HTML5** and **CSS3**, focusing on clean layout, typography, and responsive design.
 
-![MacBook Pro Landing Page Screenshot](./images/macbook-preview.png)
+
 
 ## ✨ Features
 
